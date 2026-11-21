@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files"><UniqueIdentifier>{94C57ACD-908C-4A26-83DE-353955035431}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files"><UniqueIdentifier>{16D29CAC-A41A-42C4-81E4-C37CBF72E353}</UniqueIdentifier></Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp"><Filter>Source Files</Filter></ClCompile>
+    <MASM Include="GameCore.asm"><Filter>Source Files</Filter></MASM>
+    <ClInclude Include="GameState.h"><Filter>Header Files</Filter></ClInclude>
+  </ItemGroup>
+</Project>
