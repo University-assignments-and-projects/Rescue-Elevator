@@ -1,6 +1,3 @@
-# Rescue-Elevator
-Rescue Elevator Game 
-
 EL-2003 COAL LAB — GROUP G12
 ELEVATOR RESCUE SIMULATOR — GUI + FILE HANDLING
 ================================================
